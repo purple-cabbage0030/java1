@@ -6,6 +6,11 @@ public class Variable {
 		int a = 1;
 		System.out.println(a);
 
+		double b = 1.1; // real number
+		System.out.println(b);
+		
+		String c = "Hello World";
+		System.out.println(c);
 	}
 
 }
