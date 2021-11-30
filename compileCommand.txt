@@ -1,0 +1,4 @@
+# compile & run command
+
+- javac -cp / --class-path [.java file]
+- java -cp / --class-path [.class file]
