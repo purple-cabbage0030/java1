@@ -13,6 +13,10 @@ public class InstanceApp {
 		p2.write("Hello 2");
 		p2.close();
 		
+		// inherited from Object Class -> Writer Class -> PrintWriter Class
+		System.out.println(p1.toString());
+		p2.toString();
+		
 	}
 
 }
