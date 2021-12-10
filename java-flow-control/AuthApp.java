@@ -8,6 +8,7 @@ public class AuthApp {
 		String id = "hong";
 		String inputId = args[0];
 		
+<<<<<<< HEAD
 		String pass = "1111";
 		String inputPass = args[1];
 		
@@ -28,6 +29,15 @@ public class AuthApp {
 			System.out.println("master");
 		} else {
 			System.out.println("check ID or password");
+=======
+		System.out.println("Hi");
+		
+//		if(inputId == id) {
+		if(inputId.equals(id)) {
+			System.out.println("master");
+		} else {
+			System.out.println("check ID");
+>>>>>>> a0fa41cc31f82fe0d3a313542ab22a82c3f8cf54
 		}
 	}
 
