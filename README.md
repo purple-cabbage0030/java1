@@ -12,7 +12,6 @@ https://www.youtube.com/playlist?list=PLuHgQVnccGMDkdt3N9tT0aZPZx5-Ri2jo
 생활코딩 java 객체 지향 프로그래밍 Object Oriented Programming <br>
 https://www.youtube.com/playlist?list=PLuHgQVnccGMAb-e41kXPSIpmoz1RvHyN4
 
-
-
-
+생활코딩 java 상속 inheritance <br>
+https://www.youtube.com/playlist?list=PLuHgQVnccGMA1bRSk_SZrXMngx5iq03cc
 
